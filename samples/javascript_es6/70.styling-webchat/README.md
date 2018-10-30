@@ -19,10 +19,6 @@ This sample shows how to create a web page with customized [Web Chat](https://gi
    ```
 - Navigate to the page at [http://localhost:5000](http://localhost:5000/)
 
-## Web Chat
-
-Web Chat is a highly-customizable web-based client for Azure Bot Services. It can be integrated with your existing web site using JavaScript and React. In this sample, we are customizing Web Chat using JavaScript without any UI frameworks. For deep-customizations, Web Chat can be rebuilt using React to suit your need.
-
 # Further Reading
 
 - [Bot Framework Documentation](https://docs.botframework.com/)
