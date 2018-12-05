@@ -214,8 +214,18 @@ class RichCardsBot {
             CardFactory.actions([
                 {
                     type: 'openUrl',
-                    title: 'Get started',
+                    title: '[Open URL] Get started',
                     value: 'https://docs.microsoft.com/en-us/azure/bot-service/'
+                },
+                {
+                    type: 'postBack',
+                    title: '[Post Back] hi',
+                    value: 'hi'
+                },
+                {
+                    type: 'ImBack',
+                    title: '[Im Back] hello',
+                    value: 'hello'
                 }
             ])
         );
