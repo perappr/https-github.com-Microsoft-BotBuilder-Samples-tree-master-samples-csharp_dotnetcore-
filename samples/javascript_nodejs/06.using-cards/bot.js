@@ -223,7 +223,7 @@ class RichCardsBot {
                     value: 'hi'
                 },
                 {
-                    type: 'ImBack',
+                    type: 'imBack',
                     title: '[Im Back] hello',
                     value: 'hello'
                 }
