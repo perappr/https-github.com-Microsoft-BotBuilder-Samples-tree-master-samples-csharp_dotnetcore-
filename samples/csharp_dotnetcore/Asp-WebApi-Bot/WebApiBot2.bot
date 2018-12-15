@@ -1,0 +1,63 @@
+{
+    "name": "WebApiBot2",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "appId": "7868bbd0-52ac-4e2b-90ea-e883b558ad58",
+            "id": "3",
+            "name": "WebApiBot2",
+            "resourceGroup": "WebApiBot2",
+            "serviceName": "WebApiBot2",
+            "subscriptionId": "9ad09adf-c85f-43a0-96fe-18b146d1f90e",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+        },
+        {
+            "type": "endpoint",
+            "appId": "7868bbd0-52ac-4e2b-90ea-e883b558ad58",
+            "appPassword": "IuuNiX6lKvaEf6eoe8YCqA==!c1K7rPWP5GTtqm1DMS/9usjEuLrj1gbcXQoLpG8kS9Q=",
+            "endpoint": "http://localhost:3426/api/messages",
+            "id": "1",
+            "name": "development"
+        },
+        {
+            "type": "appInsights",
+            "apiKeys": {},
+            "applicationId": "b5250078-45b4-4995-9649-79d2db652ae2",
+            "id": "4",
+            "instrumentationKey": "45dOSM4P1SmEbHhfC+6jUQ==!mqkuM8pmAovrF9pbLJJa+hzR2g9b9/vNZqMnLmmaRgZrKrMfHob+FAn2SAFTUGT9",
+            "name": "WebApiBot2il77yd",
+            "resourceGroup": "WebApiBot2",
+            "serviceName": "WebApiBot2il77yd",
+            "subscriptionId": "9ad09adf-c85f-43a0-96fe-18b146d1f90e",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+        },
+        {
+            "type": "blob",
+            "connectionString": "OLU+AgNP8XcCBJsDG/y/Yg==!KJ8e2KO4/D7JHgcT7oA/s2J03DIgbMwJpCQNxz94dX5b/58l4hWBYiKEfyvglWcgy1f/GvBLu+wNkw4SO1iKOjAXUdLtx/qjvNp+LCWGUBjs5TH2qQ0Sis1j+9Wrq30RAu7SHKC7zFNmMqPXgiVegVRPVLqK+Wc0Sr+yb7TqH4Y1NYIztkgX9Eqwc7tw8ISik9mOfxAm1LZG6xI8ZDc7y/8UNgk45G9QVBUsJyqo3kjZPgXT3bJ52jzjHC88bmOF",
+            "container": "botstatestore",
+            "id": "5",
+            "name": "ebpiot2z7zc",
+            "resourceGroup": "WebApiBot2",
+            "serviceName": "ebpiot2z7zc",
+            "subscriptionId": "9ad09adf-c85f-43a0-96fe-18b146d1f90e",
+            "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+        },
+        {
+            "type": "endpoint",
+            "appId": "7868bbd0-52ac-4e2b-90ea-e883b558ad58",
+            "appPassword": "gtrjzEemxFH4XTVdiBqy1A==!caQcCQOGB9ApBKpgmj4u/zliOSIEE4aKpfx4vzNROps=",
+            "endpoint": "https://ebpiot2i6go.azurewebsites.net/api/messages",
+            "id": "113",
+            "name": "production"
+        }
+    ],
+    "padlock": "A8SEaT5YmVtEZO2LBOT2og==!fQvWaTcpmHd8huKC38CrMkJWS/KaqU0BiGXWz7rvRTGz0Z5z5LjMxS8iFwJde0gj",
+    "version": "2.0",
+    "path": "C:\\source\\github\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\Asp-WebApi-Bot2\\WebApiBot2.bot",
+    "overrides": {
+        "endpoint": {
+            "id": "2"
+        }
+    }
+}

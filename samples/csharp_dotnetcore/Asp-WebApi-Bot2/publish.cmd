@@ -1,0 +1,1 @@
+az bot publish --resource-group WebApiBot2 -n WebApiBot2 --subscription 9ad09adf-c85f-43a0-96fe-18b146d1f90e -v v4 --proj-file "Asp-WebApi-Bot2.csproj" --verbose
