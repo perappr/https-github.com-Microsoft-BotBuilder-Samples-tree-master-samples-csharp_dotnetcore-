@@ -1,6 +1,5 @@
 ﻿// Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
-// Generated with `dotnet new echobot` vX.X.X
 
 using System;
 using System.Linq;
@@ -13,7 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Microsoft.BotFramework.Samples
+namespace Microsoft.BotBuilderSamples
 {
     /// <summary>
     /// The Startup class configures services and the request pipeline.
